@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lawren-ai<br>👀 I’m interested in machine learning, deep learning, computer vision and natural language processing<br>🌱 I’m currently learning neural network architectures, generative models, AI-driven recommendation systems<br>💞️ I’m looking to collaborate on computer vision projects<br> Fun Fact: When I am not building ML models, I am scoring bangers on the football field
+👋 Hi, I’m @lawren-ai<br>👀 I’m interested in machine learning, deep learning, computer vision and natural language processing<br>🌱 I’m currently learning neural network architectures, generative models, AI-driven recommendation systems<br>💞️ I’m looking to collaborate on computer vision projects<br> 💪Fun Fact: When I am not building ML models, I am scoring bangers on the football field
 
 
 ## 🌐 Socials:
