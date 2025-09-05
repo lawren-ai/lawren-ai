@@ -1,66 +1,53 @@
-# 💫 About Me  
+# 💫 About Me
 
-👋 Hi, I’m **Lawrence (@lawren-ai)** <br>  
-🚀 I'm passionate about **AI engineering**, with a strong focus on **Generative AI**, **RAG systems**, and **ML-driven applications**.<br>  
-🔭 My current projects range from **GAN-based cancer image synthesis**, **regulatory compliance RAG chatbots**, to **resume screening AI systems**.<br>  
-🌱 I’m constantly learning **advanced deep learning architectures**, **vector search technologies**, and **scalable ML deployment techniques**.<br>  
-💼 My ultimate goal is to build **production-grade AI systems** that have real-world impact in **healthcare**, **finance**, and **legal tech**.<br>  
-⚽ **Fun fact**: When I’m not coding or training models, you’ll probably find me on the football pitch scoring bangers.  
+👋 Hi, I’m **Lawrence (@lawren-ai)**  
+🚀 I build intelligent applications across recommendation systems, predictive analytics, computer vision, and interactive visualization.  
+🔭 Some of my recent projects include:
 
----
+| Project | Description |
+|---------|-------------|
+| **Netflix Recommendation Engine** | A content-based recommender system modeled on Netflix—leveraging similarity metrics for personalized movie/series suggestions. :contentReference[oaicite:0]{index=0} |
+| **Customer Churn Predictor** | A machine learning pipeline for predicting customer attrition—equipped for analysis, feature engineering, modeling, and evaluation. :contentReference[oaicite:1]{index=1} |
+| **LAPD Crime Data Analysis & Visualization** | A comprehensive project analyzing and visualizing crime trends using LAPD datasets. :contentReference[oaicite:2]{index=2} |
+| **Cake Classifier App** | A web application powered by a trained ML model that identifies cake types—from cheesecake to chocolate cake—based on uploaded images. :contentReference[oaicite:3]{index=3} |
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayotunde-akinboade-655a231b1)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rlay_py)  
-
----
-
-# 💻 Tech Stack  
-
-### **Core Skills**
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=plastic&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDD00.svg?style=plastic&logo=huggingface&logoColor=black)
-
-### **Data & Deployment**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white)
-
-### **Visualization & Tools**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white)
+🌱 I’m actively exploring advanced neural architectures, scalable AI deployments, and end-to-end ML systems.  
+⚽ **Fun fact**: When I'm not coding, I'm scoring goals on the football field!
 
 ---
 
-# 🛠️ Featured Projects  
+##  Tech Stack
 
-- 🧬 **[Breast Cancer GAN](https://github.com/lawren-ai/breast-cancer-gan)**:  
-  A conditional GAN for generating high-quality synthetic breast cancer images using WGAN-GP, spectral normalization, and AdaIN.
-
-- ⚖️ **[Finance Compliance RAG Chatbot](https://github.com/lawren-ai/finance-compliance-rag)**:  
-  A LangChain-powered chatbot that helps fintech startups navigate regulatory compliance using Nigerian financial documents.
-
-- 🤖 **[Resume Screening App](https://github.com/lawren-ai/resume-screening-gemini)**:  
-  AI-powered tool using Gemini API to analyze resumes against job descriptions and provide structured feedback.
-
-- 🗂 **[Customer Churn Prediction](https://github.com/lawren-ai/churn-prediction-deployment)**:  
-  End-to-end machine learning project deployed with Render, including preprocessing, model building, and API integration.
+- **Languages & Core Libraries**: Python, scikit-learn, Pandas, NumPy  
+- **Web & APIs**: Flask, Streamlit (or equivalent for frontend integrations)  
+- **Computer Vision**: OpenCV, image classification tools  
+- **Deployment & DevOps**: Docker, cloud hosting platforms  
+- **Visualization & Analytics**: Matplotlib, Plotly, interactive dashboards  
 
 ---
 
-# 📊 GitHub Stats  
+##  Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=lawren-ai&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lawren-ai&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawren-ai&theme=onedark&hide_border=false&layout=compact)
+### 1. **Netflix Recommendation Engine**  
+A content-based recommender system that analyzes user preferences and media metadata to suggest movies and TV shows—a great blend of NLP, vector similarity, and practical user experience. :contentReference[oaicite:4]{index=4}
+
+### 2. **Customer Churn Predictor**  
+An end-to-end solution designed to forecast customer churn. This includes everything from preprocessing data and engineering features to training and evaluating models with meaningful metrics. :contentReference[oaicite:5]{index=5}
+
+### 3. **LAPD Crime Data Analysis & Visualization**  
+Interactive visualization and analytical exploration of crime data sourced from LAPD—insights through charts, geospatial mapping, and storytelling visuals. :contentReference[oaicite:6]{index=6}
+
+### 4. **Cake Classifier App**  
+Image classification meets dessert! Upload a cake image and the app predicts its type (e.g., cheesecake, strawberry shortcake) with high accuracy—perfect for bakeries or dessert enthusiasts. :contentReference[oaicite:7]{index=7}
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=lawren-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawren-ai&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lawren-ai&theme=onedark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawren-ai&theme=onedark&hide_border=false&layout=compact)
+
+---
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=lawren-ai&icon=0&color=0)](https://visitcount.itsvg.in)
